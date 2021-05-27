@@ -3,7 +3,7 @@
     src="docs/public/readme-logo.png"
     alt="Auto Logo"
     width="300px"
-    padding="40px"
+    padding="45px"
   />
   <br />
   <br />
